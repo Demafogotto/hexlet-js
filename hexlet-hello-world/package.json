@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-hello-world",
+  "version": "1.0.0",
+  "description": "uwu",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "aaa"
+  },
+  "author": "me",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Demafogotto/hexlet-js.git"
+  },
+  "keywords": [
+    "help"
+  ],
+  "bugs": {
+    "url": "https://github.com/Demafogotto/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Demafogotto/hexlet-js#readme"
+}
